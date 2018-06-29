@@ -374,7 +374,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Informe se deseja a\xFAdio ou n\xE3o:"
+  m_Text: "Escolha com ou sem \xE1udio:"
 --- !u!222 &336538062
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -934,7 +934,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Com A\xFAdio"
+  m_Text: "Com \xC1udio"
 --- !u!222 &1287098322
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1055,7 +1055,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -2.9, y: 125}
+  m_AnchoredPosition: {x: -2.9, y: 114}
   m_SizeDelta: {x: 288.6, y: 38.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1475302756
@@ -1494,7 +1494,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Sem A\xFAdio"
+  m_Text: "Sem \xC1udio"
 --- !u!222 &1876057110
 CanvasRenderer:
   m_ObjectHideFlags: 0

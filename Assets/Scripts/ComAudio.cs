@@ -19,7 +19,7 @@ public class ComAudio : MonoBehaviour {
     {
         AudioSource audio = GetComponent<AudioSource>();
         audio.Play();
-        audio.Play(44100);
+        //audio.Play(44100);
         DontDestroyOnLoad(gameObject);
     }
     public void Semaudio()

@@ -238,17 +238,24 @@
     <Compile Include="Assets\Scripts\AnswerButton.cs" />
     <Compile Include="Assets\Scripts\AnswerData.cs" />
     <Compile Include="Assets\Scripts\ComAudio.cs" />
-    <Compile Include="Assets\Scripts\Controller\LoginController.cs" />
+    <Compile Include="Assets\Scripts\Controller\GCPause.cs" />
+    <Compile Include="Assets\Scripts\Controller\LoginAlunoController.cs" />
+    <Compile Include="Assets\Scripts\Controller\LoginProfController.cs" />
     <Compile Include="Assets\Scripts\DataController.cs" />
     <Compile Include="Assets\Scripts\GameController.cs" />
     <Compile Include="Assets\Scripts\GameData.cs" />
     <Compile Include="Assets\Scripts\MenuController.cs" />
+    <Compile Include="Assets\Scripts\Model\Cenas.cs" />
+    <Compile Include="Assets\Scripts\Model\CrudPerguntas.cs" />
     <Compile Include="Assets\Scripts\Model\Opcoes.cs" />
     <Compile Include="Assets\Scripts\Model\Sair.cs" />
     <Compile Include="Assets\Scripts\Model\Teste.cs" />
     <Compile Include="Assets\Scripts\QuestionData.cs" />
     <Compile Include="Assets\Scripts\RoundData.cs" />
     <Compile Include="Assets\Scripts\SimpleObjectPool.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\StreamingAssets\Dados.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

@@ -14,8 +14,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Views/Discente.unity
     guid: 38885e7a012029a4b9ae6574dbeb9988
-  - enabled: 1
-    path: Assets/Views/Docente.unity
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/a4f2b9246525e974d87ff79471cfd541
     guid: a4f2b9246525e974d87ff79471cfd541
   - enabled: 1
     path: Assets/Views/Sobre.unity
@@ -35,3 +35,51 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Views/Opcoes.unity
     guid: a58413d3988126b4aa233da8378b0abe
+  - enabled: 1
+    path: Assets/Views/Ilustracao/Ilustracao.unity
+    guid: 58d240beec130544580b1f57f56f2651
+  - enabled: 1
+    path: Assets/Views/Ilustracao/Ilustracao2.unity
+    guid: 9f095d77fb6ff61479cbeb03b728171c
+  - enabled: 1
+    path: Assets/Views/Ilustracao/Ilustracao3.unity
+    guid: 4499e8caec6a01841a118c398281e25e
+  - enabled: 1
+    path: Assets/Views/Ilustracao/Ilustracao4.unity
+    guid: bf9edf4c624cb3b42895e47ae632b817
+  - enabled: 1
+    path: Assets/Views/Ilustracao/Ilustracao6.unity
+    guid: 7bdcfbbae021bca43823bee3d00245d5
+  - enabled: 1
+    path: Assets/Views/Ilustracao/Ilustracao7.unity
+    guid: 80dc9fde6d1496d41b3cbef6f31b4003
+  - enabled: 1
+    path: Assets/Views/Ilustracao/Ilustracao5.unity
+    guid: 314b6fdbbad5868489d8833df4adc31e
+  - enabled: 1
+    path: Assets/Views/AjudaDiscente/Ajuda.unity
+    guid: 5ce1d533605dcf741aefe03cd609dabf
+  - enabled: 1
+    path: Assets/Views/AjudaDiscente/Ajuda2.unity
+    guid: eed357ff9a2e32b4992bb206efc4ea64
+  - enabled: 1
+    path: Assets/Views/AjudaDiscente/Ajuda3.unity
+    guid: 5b38c67d5c8c4eb47b3639af4c8df253
+  - enabled: 1
+    path: Assets/Views/AjudaDiscente/Ajuda4.unity
+    guid: 702d0a8b00053e842be6016c3544d2d7
+  - enabled: 1
+    path: Assets/Views/AjudaDiscente/Ajuda5.unity
+    guid: cd4bf223ba9d97c4480a7f175879d3dc
+  - enabled: 1
+    path: Assets/Views/AjudaDocente.unity
+    guid: d18a08b46733c8a47bb2c6e4102fc71e
+  - enabled: 1
+    path: Assets/Views/IniciarDocente.unity
+    guid: 8a1016a2e9053be4f97d7c3cf02fd791
+  - enabled: 1
+    path: Assets/Views/SobreDocente.unity
+    guid: 3c75c1d786bebb440ac79a740fdb0e8d
+  - enabled: 1
+    path: Assets/Views/Docente.unity
+    guid: 4b77f2ac85e7f474f8064b8fc8cfc01d

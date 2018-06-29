@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Views/Menu.unity
+- path: Assets/Views/AjudaDocente.unity
   isLoaded: 1
   isActive: 1
